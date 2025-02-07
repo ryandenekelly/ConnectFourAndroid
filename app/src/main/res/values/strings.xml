@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ConnectFour</string>
+    <string name="gameTitle">ConnectFour</string>
+    <string name="onePlayer">One Player</string>
+    <string name="twoPlayer">Two Player</string>
+    <string name="menu">Menu</string>
+    <string name="smarter">Smarter</string>
+    <string name="back">Back</string>
+    <string name="dumb">Dumb</string>
+    <string name="enterPlayerHint">Enter player name...</string>
+    <string name="enterPlayerTwoHint">Enter player two name</string>
+    <string name="enterPlayerOneHint">Enter player one name</string>
+    <string name="twoPlayerGame">Two Player Game</string>
+    <string name="play">Play</string>
+</resources>

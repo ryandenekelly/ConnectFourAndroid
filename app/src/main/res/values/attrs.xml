@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ConnectFourBoard">
+        <attr name="boardColour" format="color"/>
+        <attr name="PlayerOneColour" format="color"/>
+        <attr name="PlayerTwoColour" format="color"/>
+        <attr name="WinningLineColour" format="color"/>
+    </declare-styleable>
+</resources>
